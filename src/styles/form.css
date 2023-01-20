@@ -1,0 +1,28 @@
+.wrapper {
+    width: 40%;
+    height: auto;
+    border: 6px solid whitesmoke;
+    background-color: whitesmoke;
+    border-radius: 10px;
+    margin: 10% auto;
+    padding: 20px 8px;
+}
+
+.title{
+    text-align: center;
+    color: purple;
+    font-size: 25px;
+    font-weight: bold;
+}
+.submit-button-wrapper{
+    display: flex;
+    justify-content: center;
+}
+
+.submit{
+    color: white;
+    background-color: purple;
+    padding: 10px;
+    width: 80%;
+    border-radius: 10px;
+}
